@@ -73,12 +73,13 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/iam_shanmukha)
 
 ## 📈 Github Stats
+<!--
 ![Shanmukha Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=11&bg_color=135,222223,000000&hide_border=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=truey&border_radius=11)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+-->
+<a href="https://github.com/iam-shanmukha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=11&bg_color=135,222223,000000&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/iam-shanmukha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=truey&border_radius=11)](https://git.io/streak-stats" />
 </a>
 
