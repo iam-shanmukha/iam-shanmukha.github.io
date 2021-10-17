@@ -1,13 +1,25 @@
+<!--
 [![Shanmukha Vishnu header](https://raw.githubusercontent.com/iam-shanmukha/iam-shanmukha/main/images/shanmukha_vishnu.jpeg)](https://www.shanmukhavishnu.in)
+-->
 
-# 👋 Hi, I am Shanmukha Vishnu.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Shanmukha Vishnu.
 
-- ⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
-- 👨‍💻 I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
-- 📚 I write Quotes on [YourQuote](https://www.yourquote.in/shanmukha-vishnu-bp7sd/quotes).
-- 🎹 I play Dholak and Piano
+⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
 
+👨‍💻 I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
+
+❤️ I love to play with Sensors, Electronics, and bleeding Edge Tech Devices especially related to Autonomous Robots and Autonomous Vehicles.
+
+📚 I write Quotes on [YourQuote](https://www.yourquote.in/shanmukha-vishnu-bp7sd/quotes).
+
+🎹 In my free time I play Dholak and Piano as hobbies.
+
+
+<Details>
+  <summary>Click to expand!</summary>
+  
 ## 🔭 Experience
+  
 <Details>
   <summary>Click to expand!</summary>
 
@@ -42,6 +54,8 @@
 - D.A.S.H: Digital Assistant for Seminar Halls
   
 </Details>
+ 
+ </Details>
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -54,6 +68,7 @@
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![IOT](https://img.shields.io/badge/IOT-f9ad4d?style=for-the-badge&logo={reddit}&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
