@@ -2,13 +2,8 @@
 
 - ⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
 - 👨‍💻 I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
-
-:smile: Facts about Me
-
-- I write Quotes on YourQuote.
-- I play Dholak and Piano
-
-[![YourQuote](https://img.shields.io/badge/YourQuote-f9ad4d?style=for-the-badge&logo={reddit}&logoColor=white)](https://www.yourquote.in/shanmukha-vishnu-bp7sd/quotes)
+- 📚 I write Quotes on YourQuote.
+- 🎹 I play Dholak and Piano
 
 ## 🔭 Experience
 <Details>
