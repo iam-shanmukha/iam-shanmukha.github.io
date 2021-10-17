@@ -10,6 +10,42 @@
 - Good knowledge in making real world IOT [Projects](https://youtu.be/uFxHeU1ZsDw)
 - I published 100+ quotes/poems on [YourQuote](https://www.yourquote.in/vishnushanmukha)
 
+## Experience
+<Details>
+  <summary>Click to expand!</summary>
+
+#### Eruvaka Technologies, Vijayawada
+- Associate Engineer - Embedded Electronics (R&D) and ROS Developer - Present
+- Junior Design Engineer - Apr 2021 – Sep 2021
+- Research And Development Intern - Sep 2020 – Mar 2021
+#### Blogging
+- Running a  Regional [Tech website](www.shanmukhavishnu.in) - India
+
+</Details>
+
+## Publications
+
+<Details>
+  <summary>Click to expand!</summary>
+  
+- [Gleaming of Lights by Pedaling using Arduino](https://link.springer.com/chapter/10.1007/978-981-15-9853-1_30)
+- [Cybernation of Home Appliances using Raspberry Pi](https://www.ieindia.org/webui/ajax/Downloads/WebUI_PDF/IEC/IEC_35.pdf?v20210205.1)
+- [QR code based digital assistant for seminar halls using Tinker Board and Node-Red](https://link.springer.com/book/10.1007%2F978-981-16-2109-3)
+ 
+</Details>
+
+## Projects
+<Details>
+  <summary>Click to expand!</summary>
+ 
+- Drushya — CRT TV to ·Smart TV with G. Assistant
+- [Covid Bot India](http://www.github.com/iam-shanmukha/corona_data.py) - [Twitter](https://twitter.com/covid_bot_India) - [Telegram](https://www.t.me/covid_bot_india)
+- [Cybernation of Home Appliances using Raspberry Pi](https://www.ieindia.org/webui/ajax/Downloads/WebUI_PDF/IEC/IEC_35.pdf?v20210205.1)
+- [QR code based digital assistant for seminar halls using Tinker Board and Node-Red](https://link.springer.com/book/10.1007%2F978-981-16-2109-3)
+- D.A.S.H: Digital Assistant for Seminar Halls
+  
+</Details>
+
 ## Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,7 +53,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-# Technologies:
+## Technologies:
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,6 +63,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 ![Shanmukha Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
   
