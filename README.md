@@ -1,16 +1,16 @@
-# Hi, I am Shanmukha Vishnu.
+# 👋 Hi, I am Shanmukha Vishnu.
 
-- An Electrical Engineer by Education | Tech Enthusiast by Passion | Open Source Contributer by Night |
-- I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
-- Always curious to apply my skills to solve real world problems
-- Experience in Cloud Technologies and building android applications with Python using Kivy
-- Proficiency in Linux Operating System(Debian/Arch based distros)
-- Proficiency on Open sources devices(Raspberry PI, Tinker Board, Arduino, ESP32)
-- Running a Telugu Tech blog (www.shanmukhavishnu.in) to educate people on tech
-- Good knowledge in making real world IOT [Projects](https://youtu.be/uFxHeU1ZsDw)
-- I published 100+ quotes/poems on [YourQuote](https://www.yourquote.in/vishnushanmukha)
+- ⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
+- 👨‍💻 I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
 
-## Experience
+:smile: Facts about Me
+
+- I write Quotes on YourQuote.
+- I play Dholak and Piano
+
+[![YourQuote](https://img.shields.io/badge/YourQuote-f9ad4d?style=for-the-badge&logo={reddit}&logoColor=white)](https://www.yourquote.in/shanmukha-vishnu-bp7sd/quotes)
+
+## 🔭 Experience
 <Details>
   <summary>Click to expand!</summary>
 
@@ -23,7 +23,7 @@
 
 </Details>
 
-## Publications
+## 📚 Publications
 
 <Details>
   <summary>Click to expand!</summary>
@@ -34,7 +34,7 @@
  
 </Details>
 
-## Projects
+## 💡 Projects
 <Details>
   <summary>Click to expand!</summary>
  
@@ -56,6 +56,7 @@
 ## Technologies:
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -64,10 +65,22 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+## 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shanmukhavishnu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_shanmukha)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukhavishnu/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-shanmukha/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/iam_shanmukha)
 
-![Shanmukha Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=true)](https://git.io/streak-stats)
+## 📈 Github Stats
+![Shanmukha Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=11&bg_color=135,222223,000000&hide_border=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=truey&border_radius=11)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-shanmukha&show_icons=true&theme=great-gatsby&border_radius=11&bg_color=135,222223,000000&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=truey&border_radius=11)](https://git.io/streak-stats" />
+</a>
 
  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shanmukha&layout=compact&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
