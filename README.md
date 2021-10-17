@@ -1,3 +1,5 @@
+[![Shanmukha Vishnu header](https://raw.githubusercontent.com/iam-shanmukha/iam-shanmukha/main/images/shanmukha_vishnu.jpeg)](https://www.shanmukhavishnu.in)
+
 # 👋 Hi, I am Shanmukha Vishnu.
 
 - ⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
@@ -81,7 +83,6 @@
  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shanmukha&layout=compact&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shanmukha Vishnu header](https://raw.githubusercontent.com/iam-shanmukha/iam-shanmukha/main/images/shanmukha_vishnu.jpeg)](https://www.shanmukhavishnu.in)
 
 -->
 
