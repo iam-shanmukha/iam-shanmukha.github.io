@@ -16,7 +16,7 @@
 
 
 <Details>
-  <summary>Click to expand!</summary>
+  <summary>More about Me!</summary>
   
 ## 🔭 Experience
   
