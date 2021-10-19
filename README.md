@@ -12,6 +12,14 @@
 
 📚 I write Quotes on [YourQuote](https://www.yourquote.in/shanmukha-vishnu-bp7sd/quotes).
 
+> People who stay single are already committed to their Passion.
+>
+> The Passion that keeps them occupied.
+>
+> The Passion that makes them enjoyed.
+>
+> -- Shanmukha Vishnu
+
 🎹 In my free time I play Dholak and Piano as hobbies.
 
 
