@@ -2,6 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Shanmukha Vishnu.
 
+
 ⚡ An Electrical Engineer by Education | 👨‍💻 Tech Enthusiast by Passion | Open Source Contributer by Night |
 
 👨‍💻 I work as ROS(Robot Operating System) Developer and Associate R&D Engineer - Embedded Electronics at Eruvaka Technologies.
@@ -102,10 +103,4 @@
 <a href="https://github.com/iam-shanmukha">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-shanmukha&hide_border=truey&border_radius=9)](https://git.io/streak-stats" />
 </a>
-
- <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-shanmukha&layout=compact&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
--->
 
